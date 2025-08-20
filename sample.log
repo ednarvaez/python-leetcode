@@ -1,0 +1,7 @@
+2024-08-19 10:00:01 INFO System starting
+2024-08-19 10:00:02 DEBUG Loading configuration
+2024-08-19 10:00:03 ERROR Failed to connect to database
+2024-08-19 10:00:04 INFO Retrying connection
+2024-08-19 10:00:05 INFO Connection established
+2024-08-19 10:00:06 ERROR Memory allocation failed
+2024-08-19 10:00:07 FATAL System shutdown
