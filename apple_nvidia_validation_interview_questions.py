@@ -47,7 +47,14 @@ def set_nth_bit_register(register_value: int, bit_position: int) -> int:
     
     HARDWARE CONTEXT: 
     - Setting interrupt enable bits
+    - Configuring control register
+    ACTUAL APPLE QUESTION: "Set the nth bit in a register value"
+    
+    HARDWARE CONTEXT: 
+    - Setting interrupt enable bits
     - Configuring control registers
+    - Enabling features in status registers
+    s
     - Enabling features in status registers
     
     INTERVIEW TIP: Explain the OR operation and bit masking clearly

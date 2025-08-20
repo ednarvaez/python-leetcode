@@ -1,0 +1,15 @@
+timestamp,ltssm_state,additional_data
+0.0,Detect,
+0.1,Polling,
+0.5,Config,Gen1
+2.0,L0,Gen1
+5.0,Recovery,
+5.2,Config,Gen2
+6.0,L0,Gen2
+10.0,L0s,
+10.05,L0,Gen2
+15.0,Recovery,
+15.8,Config,Gen3
+16.5,L0,Gen3
+20.0,Recovery,
+23.0,L0,Gen3
